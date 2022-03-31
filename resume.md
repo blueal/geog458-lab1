@@ -1,55 +1,41 @@
-# Alex Friedberg
+# Joe Bob
 
-your.name@example.com
+joe.bob@example.com
 
-http://www.example.com
+http://www.joebob.com
 
-http://www.linkedin.com/in/yourname
+http://www.linkedin.com/in/joebob
 
 # Summary
 
-Quick Summary (not objective) specifically highlighting why you qualify for the job.
+I, Joe Bob, am an absolute expert at everything. I graduated from High School with a 3.2 at 14, and worked at McDonalds until I was 32. I was awarded an honorary degree from Harvard in burger flipping. Needless to say, I'm highly qualified to work at any burger flipping establishment.l
 
 # Work Experience (only last 10 years)
 
-## University Name 1 (City, State)
+## University of Kicking Back (Anytown, Freedom State)
 
-* [University 1][] description, particularly if not well-known.*
+[University of Kicking Back][] Worked hard at hardly working!
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+** Position Title (include alternate titles in parentheses)** (1998 - Present)
 
-Summary of your role
+The School of life is hard enough as it is. I've been working my but off doing what I do best.
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- Survived **High School**.
+- Didn't die from drugs
+- Lived past the age of 27
+- Learned to **ROCK**
 
-## University Name 2 (City, State)
-*[University 2][] description, particularly if not well-known.*
+## McDonalds (Seattle, West Virginia)
+[McDonalds][https://www.mcdonalds.com/us/en-us.html] That big house of fries
 
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
+** Burger Flipper (cook)** (2002 - 2022)
 
-Summary of your role
+All I do is cook meats, and chew gum. And I'm all out of gum.
 
-- Accomplishment that contains **bold text**.
-- Accomplishment
-- Accomplishment
-- Accomplishment
+- Didn't burn any meat from 2004-2007
+- Was known for lack of severe burns
+- Was also known for dissing out severe **Burns**
+- Succesfully completed training with a passing score
 
-## University Name 3 (City, State)
-* [University 3][] description, particularly if not well-known.*
-
-** Position Title (include alternate titles in parentheses)** (Start Date - End Date)
-
-Summary of your role
-
-- Accomplishment
-- Accomplishment
-- Accomplishment
-- Accomplishment
-
-
-[University 1]: http://www.univ1.edu
-[University 2]: http://www.univ2.edu
-[University 3]: http://www.univ3.edu
+[University of Kicking Back]: https://www.unlv.edu/
+[McDonalds]: https://www.mcdonalds.com/us/en-us.html
