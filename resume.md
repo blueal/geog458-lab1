@@ -53,7 +53,9 @@ All I do is cook meats, and chew gum. And I'm all out of gum.
 
 -Jill Bob
 
-> I've never met a guy who knew so many Bobs
+> I've never met a guy who knew so many Bobs.
+> It's like this guy is just the king of bobs
+> I would trust him with anything bob related.
 
 -Tim Bob
 
