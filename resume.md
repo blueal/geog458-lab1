@@ -10,7 +10,7 @@ http://www.linkedin.com/in/joebob
 
 I, Joe Bob, am an absolute expert at everything. I graduated from High School with a 3.2 at 14, and worked at McDonalds until I was 32. I was awarded an honorary degree from Harvard in burger flipping. Needless to say, I'm highly qualified to work at any burger flipping establishment.l
 
-# Work Experience (only last 10 years)
+# Work Experience
 
 ## University of Kicking Back (Anytown, Freedom State)
 
