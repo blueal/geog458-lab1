@@ -60,10 +60,14 @@ All I do is cook meats, and chew gum. And I'm all out of gum.
 ## List of Things I Prefer Doing
 
 1. Working for the man
+    - Unless It involves work
 2. Kicking Back
+    - 👍 I prefer this
+    - Highly reccomended
 3. Flipping Burgers
 4. Chewing Gum
 5. Disrespecting authority
+    - Heck yeah, Unless it involves work
 
 ## In Conlclusion
 
